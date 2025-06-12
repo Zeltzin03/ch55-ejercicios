@@ -26,7 +26,7 @@ are positive.
     return `${totalResistance} ohms`
   }
 
-sumOfResistors([1,5,-6,3,-9]);
-sumOfResistors([-1,5,6,3,]);
-sumOfResistors([14,3.5,6]);
-sumOfResistors([8,-15,-100]);
+console.log(sumOfResistors([1,5,-6,3,-9]));
+console.log(sumOfResistors([-1,5,6,3,]));
+console.log(sumOfResistors([14,3.5,6]));
+console.log(sumOfResistors([8,-15,-100]));
