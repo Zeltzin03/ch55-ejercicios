@@ -1,4 +1,5 @@
-/*Reto de Programación: FizzBuzz
+/*
+*Reto de Programación: FizzBuzz
 Descripción:
 
 Escribe un programa que recorra los números del 1 al 100 y aplique las siguientes reglas:
